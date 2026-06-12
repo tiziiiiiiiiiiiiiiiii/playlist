@@ -12,6 +12,10 @@ https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal 9 Televida" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="aire",Canal 9 Televida
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
