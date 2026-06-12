@@ -2,7 +2,8 @@
 # ===== 📰 Noticieros =====
 
 
-#EXTM3U #EXTINF:-1 tvg-id="elsietetv.ar" tvg-name="El Siete TV" group-title="Argentina",El Siete TV (Mendoza) https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
+#EXTINF:-1 tvg-id="elsietetv.ar" tvg-name="El Siete TV" group-title="📺 Mendoza",El Siete TV (Mendoza)
+https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
 
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
